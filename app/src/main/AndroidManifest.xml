@@ -10,6 +10,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Tuan3">
         <activity
+            android:name=".MainActivity_sc03"
+            android:exported="false" />
+        <activity
             android:name=".MainActivity_sc02"
             android:exported="false" />
         <activity
